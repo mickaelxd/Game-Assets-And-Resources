@@ -18,6 +18,7 @@ To add or remove items from this list, please make a pull request.
 
 ## AI Tools
 
+* https://lumalabs.ai/genie: create 3d assets from text
 * https://hotpot.ai/art-generator: create backgrounds, game art, and more with AI
 * https://hotpot.ai/upscale-photo: upscale game assets with AI
 * AI Game Asset Generator: contact us to join the beta list.
